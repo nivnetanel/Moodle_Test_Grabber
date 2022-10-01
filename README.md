@@ -5,7 +5,8 @@
 ### This mini-project lets you download many copies of your moodles tests to pdf files using selenium
 
 TO-DO:
-Installed selenium, and download ChromeDriver.
-Make sure to read all the notes in the file - make sure that your moodle is in Hebrew, and also that your moodle actual button's titles are the same as the file
+Install Selenium
+Download ChromeDriver(make sure that the version matches your browser version)
 
+Make sure to read all the notes in the file - keep your Moodle is in Hebrew, Also that your moodle button's titles are the same as the file
 Enjoy 👏 
